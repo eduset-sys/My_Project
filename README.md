@@ -10,7 +10,6 @@ Features
 Contributing
 
 **Project Overview**
-
 The Road Accident Analysis Dashboard provides a comprehensive and interactive platform to analyze road accident data. This dashboard enables users to visualize trends, patterns, and insights related to road safety using Excel, Power BI, and Tableau. It aims to assist stakeholders, policymakers, and researchers in making informed decisions to improve road safety measures.
 
 **Technologies Used**
