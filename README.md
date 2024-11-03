@@ -1,12 +1,19 @@
 **Road Accident Analysis Dashboard**
 
 **Table of Contents**
+
 Project Overview
+
 Technologies Used
+
 Data Sources
+
 Installation Instructions
+
 Usage Guide
+
 Features
+
 Contributing
 
 **Project Overview**
