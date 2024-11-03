@@ -14,10 +14,15 @@ The Road Accident Analysis Dashboard provides a comprehensive and interactive pl
 
 **Technologies Used**
 
-**Excel:** Data cleaning and preliminary analysis.
-**Power BI**: Interactive dashboard creation and data visualization.
-**Tableau**: Advanced data visualization and analytics.
-**Data Sources**: Various datasets containing road accident information.
+**Excel:** 
+Data cleaning and preliminary analysis.
+
+**Power BI**:  
+Interactive dashboard creation and data visualization.
+**Tableau**:  
+Advanced data visualization and analytics.
+**Data Sources**: 
+Various datasets containing road accident information.
 
 **Data Sources**
 
@@ -42,18 +47,29 @@ Driver demographics
 **Data Preparation:**
 Download the datasets and save them in an accessible directory.
 Clean and preprocess the data using Excel.
+
 **Power BI:**
+
 Open Power BI Desktop.
 Load the cleaned dataset and create your dashboard using Power BI’s visualization tools.
+
 **Tableau:**
+
 Open Tableau Desktop.
 Connect to the cleaned dataset and create visualizations as required.
 Usage Guide
-**Excel****:** Utilize Excel for data analysis, including pivot tables and charts to summarize key insights.
-**Power BI: **Use the Power BI dashboard to interactively filter and explore accident data based on various criteria (e.g., time, location, severity).
-Tableau: Leverage Tableau for in-depth visualizations and share findings via Tableau Server or Tableau Public.
-**
-Features**
+
+**Excel****:**
+Utilize Excel for data analysis, including pivot tables and charts to summarize key insights.
+
+**Power BI:
+
+**Use the Power BI dashboard to interactively filter and explore accident data based on various criteria (e.g., time, location, severity).
+
+**Tableau:**
+Leverage Tableau for in-depth visualizations and share findings via Tableau Server or Tableau Public.
+
+**Features**
 
 Interactive visualizations showing accident frequency by time and location.
 Heat maps to identify accident hotspots.
