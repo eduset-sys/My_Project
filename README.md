@@ -73,14 +73,16 @@ Open Tableau Desktop.
 Connect to the cleaned dataset and create visualizations as required.
 Usage Guide
 
-**Excel****:**
+**Excel**:
+
 Utilize Excel for data analysis, including pivot tables and charts to summarize key insights.
 
-****Power BI:**
+**Power BI:**
 
 Use the Power BI dashboard to interactively filter and explore accident data based on various criteria (e.g., time, location, severity).
 
 **Tableau:**
+
 Leverage Tableau for in-depth visualizations and share findings via Tableau Server or Tableau Public.
 
 **Features**
